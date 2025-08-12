@@ -2,11 +2,14 @@
 Code implementing different cipher algorithms ranging from traditional to modern including Symmetric and Asymmetric stream and block ciphers
 
 #Lab2 Setup and How to Run
+
 For debian linux environment-
 1.create and activate venv in folder- 
 source venv/bin/activate
+
 2.install DES,AES algorithm library-
  pip install pycryptodome 
+ 
 3. run the script-
  python Q1.py
 
